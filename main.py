@@ -7,7 +7,7 @@ from langchain.agents import create_pandas_dataframe_agent
 from langchain.llms import OpenAI
 from apikey import apikey
 
-# Set OpenAI API key
+# Place your openai API key here
 os.environ["OPENAI_API_KEY"] = apikey
 
 
