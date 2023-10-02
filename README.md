@@ -30,7 +30,7 @@ To get started with the AI SQL Brain App, follow these steps:
 4. **Start the Application**: Run the Flask app to start the AI SQL Brain App:
 
    ```bash
-   python app.py
+   streamlit run main.py
    ```
 
 5. **Access the App**: Open your web browser and navigate to `http://localhost:5000` to use the AI SQL Brain App.
