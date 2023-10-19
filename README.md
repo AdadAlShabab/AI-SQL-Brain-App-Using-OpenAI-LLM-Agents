@@ -4,7 +4,6 @@ Leveraging the power of OpenAI's Language Model Agents to create an intelligent 
 Welcome to the AI SQL Brain App repository! This project leverages the power of OpenAI's Language Model Agents to create an intelligent SQL query assistant. With this app, you can interact with a natural language interface to generate SQL queries, making it easier for both beginners and experienced SQL users to work with databases.
 
 ## Features
-
 - **Natural Language Interface**: Communicate with the app using everyday language to construct SQL queries.
 - **OpenAI Language Model Integration**: Utilizes OpenAI's advanced language model to understand and generate SQL code.
 - **Interactive Query Builder**: Step-by-step guidance for building complex SQL queries.
