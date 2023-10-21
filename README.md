@@ -10,7 +10,6 @@ Welcome to the AI SQL Brain App repository! This project leverages the power of 
 - **Database Connection**: Connect to your database to execute SQL queries directly.
 
 ## Getting Started
-
 To get started with the AI SQL Brain App, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
