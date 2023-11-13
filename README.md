@@ -1,5 +1,4 @@
 # AI SQL Brain App Using OpenAI Language Model Agents
-
 Leveraging the power of OpenAI's Language Model Agents to create an intelligent SQL query assistant.
 
 ## Introduction
