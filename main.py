@@ -8,7 +8,7 @@ from langchain.llms import OpenAI
 from apikey import apikey
 
 # Place your openai API key here
-os.environ["OPENAI_API_KEY"] = apikey
+os.environ["OPENAI_API_KEY"] = "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"
 
 
 # Define Streamlit app
