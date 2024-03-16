@@ -1,6 +1,7 @@
 openai
-langchain==0.0.305
-pandas==2.0.3
+langchain
 pandas
 tabulate
-streamlit==1.25.0
+streamlit
+langchain-community
+langchain-experimental
