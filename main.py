@@ -8,8 +8,7 @@ from langchain_community.chat_models import ChatOpenAI
 from apikey import apikey
 
 # Place your openai API key here
-os.environ["OPENAI_API_KEY"] = "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"
-
+os.environ["OPENAI_API_KEY"] = ""
 
 # Define Streamlit app
 def app():
