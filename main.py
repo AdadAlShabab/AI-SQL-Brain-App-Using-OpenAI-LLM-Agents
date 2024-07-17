@@ -9,7 +9,6 @@ from apikey import apikey
 
 # Place your openai API key here
 os.environ["OPENAI_API_KEY"] = ""
-
 # Define Streamlit app
 def app():
     st.title("AI SQL Brain. :brain:")
