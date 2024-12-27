@@ -12,7 +12,7 @@ os.environ["OPENAI_API_KEY"] = ""
 # Define Streamlit app
 def app():
     st.title("AI SQL Brain. :brain:")
-    st.title("(LLM App By :green[Adad Al Sabab])")
+    st.title("(LLM App By :green[Adad Al Shabab])")
     st.markdown(":red[Talk to your Database] with **:blue[natural language]**.")
     st.write("Upload a CSV file and enter a query to get an answer.")
     file = st.file_uploader("Upload CSV file", type=["csv"])
