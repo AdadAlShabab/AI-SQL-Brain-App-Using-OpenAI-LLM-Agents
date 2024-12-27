@@ -7,7 +7,7 @@ from langchain_experimental.agents import create_pandas_dataframe_agent
 from langchain_community.chat_models import ChatOpenAI
 from apikey import apikey
 
-# Place your openai API key here
+
 os.environ["OPENAI_API_KEY"] = ""
 
 def app():
