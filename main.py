@@ -23,7 +23,7 @@ def app():
         llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
         agent = create_pandas_dataframe_agent(llm, data,agent_type="openai-tools", verbose=True)
 
-        query = st.text_input("Enter a query:")
+        query = st.text_input("Enter any query:")
 
     if st.button("Execute"):
         answer = agent.run(query)
